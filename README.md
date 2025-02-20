@@ -18,7 +18,7 @@ platform = espressif32@6.9.0
 
 ```ini
 lib_deps =
-    https://github.com/WeekendWarrior1/XTronical_XT_DAC_Audio_Mirror/archive/master.zip
+    https://github.com/TanimSk/XTronical_XT_DAC_Audio/archive/refs/tags/v1.0.zip
 ```
 
 main.cpp or sketch.ino
