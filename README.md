@@ -11,6 +11,11 @@ https://www.xtronical.com/dacaudio-hardware/
 ## To integrate into a platformio project:
 
 platformio.ini
+
+```ini
+platform = espressif32@6.9.0
+```
+
 ```ini
 lib_deps =
     https://github.com/WeekendWarrior1/XTronical_XT_DAC_Audio_Mirror/archive/master.zip
